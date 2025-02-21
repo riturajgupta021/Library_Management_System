@@ -26,7 +26,7 @@ A RESTful API for managing a library system with role-based access control, book
 
 ### Clone the repository
 ```bash
-git clone [https://github.com/yourusername/library-management-system.git](https://github.com/riturajgupta021/Library_Management_System.git)
+git clone [https://github.com/riturajgupta021/library-management-system.git](https://github.com/riturajgupta021/Library_Management_System.git)
 ```
 
 ### Install dependencies
